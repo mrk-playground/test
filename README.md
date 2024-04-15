@@ -1,2 +1,2 @@
 # test
-Hello, everyone. This repository created for webhook test.
+Hello, everyone. This repository was created to test webhook.
